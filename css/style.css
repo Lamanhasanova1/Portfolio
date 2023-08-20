@@ -769,6 +769,7 @@ a:focus {
     height: 35px;
     background: rgb(250, 139, 2);
     transition: 0.2s linear;
+    margin-left: 0.5cm;
 }
 
 .portfolio .portfolio-item figure .link-preview i,
